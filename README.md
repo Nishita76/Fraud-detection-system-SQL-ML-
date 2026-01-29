@@ -62,6 +62,8 @@ The model achieved:
 - **Very high recall for fraud cases** (only 2 missed frauds in the test set)  
 - **Zero false positives** in the test set
 
+  Model results may vary slightly due to synthetic data generation. Latest run achieved comparable performance with minimal false negatives.
+
 This demonstrates how **AI can improve upon static SQL rules**, especially by reducing unnecessary alerts.
 
 ---
